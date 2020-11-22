@@ -1,0 +1,17 @@
+C:\Users\spect\source\repos\sclasscard\sclasscard\bin\Debug\sclasscard.exe.config
+C:\Users\spect\source\repos\sclasscard\sclasscard\bin\Debug\sclasscard.exe
+C:\Users\spect\source\repos\sclasscard\sclasscard\bin\Debug\sclasscard.pdb
+C:\Users\spect\source\repos\sclasscard\sclasscard\bin\Debug\Guna.UI.dll
+C:\Users\spect\source\repos\sclasscard\sclasscard\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\spect\source\repos\sclasscard\sclasscard\bin\Debug\WebDriver.dll
+C:\Users\spect\source\repos\sclasscard\sclasscard\bin\Debug\WebDriver.Support.dll
+C:\Users\spect\source\repos\sclasscard\sclasscard\bin\Debug\WebDriver.xml
+C:\Users\spect\source\repos\sclasscard\sclasscard\bin\Debug\WebDriver.Support.xml
+C:\Users\spect\source\repos\sclasscard\sclasscard\obj\Debug\sclasscard.csprojAssemblyReference.cache
+C:\Users\spect\source\repos\sclasscard\sclasscard\obj\Debug\sclasscard.Form1.resources
+C:\Users\spect\source\repos\sclasscard\sclasscard\obj\Debug\sclasscard.Properties.Resources.resources
+C:\Users\spect\source\repos\sclasscard\sclasscard\obj\Debug\sclasscard.csproj.GenerateResource.cache
+C:\Users\spect\source\repos\sclasscard\sclasscard\obj\Debug\sclasscard.csproj.CoreCompileInputs.cache
+C:\Users\spect\source\repos\sclasscard\sclasscard\obj\Debug\sclasscard.csproj.CopyComplete
+C:\Users\spect\source\repos\sclasscard\sclasscard\obj\Debug\sclasscard.exe
+C:\Users\spect\source\repos\sclasscard\sclasscard\obj\Debug\sclasscard.pdb
